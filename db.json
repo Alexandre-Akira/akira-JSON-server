@@ -1,7 +1,19 @@
 {
-  "events": [
+  "projects": [
     {
-      "id": 1,
+      "id": 'manage',
+      "category": "animal welfare",
+      "title": "Frenz of bunz",
+      "description": "🐰 an frenz",
+      "location": "Zoom - stay safe",
+      "pets": 1,
+      "extras": {
+        "catering": true,
+        "music": true
+      }
+    },
+     {
+      "id": 'insure',
       "category": "animal welfare",
       "title": "Frenz of bunz",
       "description": "🐰 an frenz",
@@ -12,5 +24,6 @@
         "music": true
       }
     }
+    
   ]
 }
