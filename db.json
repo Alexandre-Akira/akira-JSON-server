@@ -56,8 +56,8 @@
       "website": "/",
        "pagination": 
        {
-         "next": "Bookmark",
-         "prev": "Fylo"
+         "next": "Fylo",
+         "prev": "Bookmark"
        }
     }
   ]
