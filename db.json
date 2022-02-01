@@ -13,7 +13,11 @@
        {
          "next": "Bookmark",
          "prev": "Fylo"
-       }
+       },
+      "images": {
+        "main": "",
+        "prev1": "",
+        "prev2": ""
     }   
   ]
 }
