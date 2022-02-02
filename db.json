@@ -14,7 +14,18 @@
        {
          "next": "Bookmark",
          "prev": "Fylo"
-       }
+       },
+      "card": {
+      "image375": "../../assets/images/portfolio/desktop/image-portfolio-manage@2x.jpg",
+            "image768": "../../assets/images/portfolio/desktop/image-portfolio-manage@2x.jpg",
+            "image1440": "../../assets/images/portfolio/desktop/image-portfolio-manage@2x.jpg",
+            "imageDefault": "../../assets/images/portfolio/desktop/image-portfolio-manage@2x.jpg",
+            "title": "Manage",
+            "description": "This project required me to build a fully responsive landing page to the designs provided. I used HTML5, along with CSS Grid and JavaScript for the areas that required interactivity, such as the testimonial slider.",
+            "buttonText": "View Project",
+            "projectRoute": "/portfolio/manage",
+            "isLeftPosition": false
+    }
     },
     {
       "id": "bookmark",
@@ -30,7 +41,20 @@
        {
          "next": "Insure",
          "prev": "Manage"
-       }
+       },
+      "card": {
+          {
+            "image375": "../../assets/images/portfolio/desktop/image-portfolio-bookmark@2x.jpg",
+            "image768": "../../assets/images/portfolio/desktop/image-portfolio-bookmark@2x.jpg",
+            "image1440": "../../assets/images/portfolio/desktop/image-portfolio-bookmark@2x.jpg",
+            "imageDefault": "../../assets/images/portfolio/desktop/image-portfolio-bookmark@2x.jpg",
+            "title": "Bookmark",
+            "description": "This project required me to build a fully responsive landing page to the designs provided. I used HTML5, along with CSS Grid and JavaScript for the areas that required interactivity, such as the features section.",
+            "buttonText": "View Project",
+            "projectRoute": "/portfolio/bookmark",
+            "isLeftPosition": true,
+          }
+      }
     },
      {
       "id": "fylo",
@@ -46,7 +70,19 @@
        {
          "next": "Manage",
          "prev": "Insure"
-       }
+       },
+       "card": {
+          {
+            "image375": "../../assets/images/portfolio/desktop/image-portfolio-fylo@2x.jpg",
+            "image768": "../../assets/images/portfolio/desktop/image-portfolio-fylo@2x.jpg",
+            "image1440": "../../assets/images/portfolio/desktop/image-portfolio-fylo@2x.jpg",
+            "imageDefault": "../../assets/images/portfolio/desktop/image-portfolio-fylo@2x.jpg",
+            "title": "Fylo",
+            "description": "This project required me to build a fully responsive landing page to the designs provided. I used HTML5, along with CSS Grid and JavaScript for the areas that required interactivity, such as the features section.",
+            "buttonText": "View Project",
+            "projectRoute": "/portfolio/fylo",
+            "isLeftPosition": true,
+          }
     },
      {
       "id": "insure",
@@ -62,7 +98,19 @@
        {
          "next": "Fylo",
          "prev": "Bookmark"
-       }
+       },
+       "card": {
+          {
+            "image375": "../../assets/images/portfolio/desktop/image-portfolio-insure@2x.jpg",
+            "image768": "../../assets/images/portfolio/desktop/image-portfolio-insure@2x.jpg",
+            "image1440": "../../assets/images/portfolio/desktop/image-portfolio-insure@2x.jpg",
+            "imageDefault": "../../assets/images/portfolio/desktop/image-portfolio-insure@2x.jpg",
+            "title": "Insure",
+            "description": "This project required me to build a fully responsive landing page to the designs provided. I used HTML5, along with CSS Grid and JavaScript for the areas that required interactivity, such as the features section.",
+            "buttonText": "View Project",
+            "projectRoute": "/portfolio/insure",
+            "isLeftPosition": true,
+          }
     }
   ]
 }
